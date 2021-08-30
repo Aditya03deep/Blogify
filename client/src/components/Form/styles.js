@@ -7,7 +7,7 @@ export default makeStyles((theme) => ({
     },
   },
   paper: {
-    width: '100%',
+    
     marginTop: '20px',
     padding: theme.spacing(2),
   },
